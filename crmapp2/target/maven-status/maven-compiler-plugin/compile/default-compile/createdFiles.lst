@@ -1,0 +1,4 @@
+com\greatlearning\crmapp2\entity\Customer.class
+com\greatlearning\crmapp2\controller\CustomerController.class
+com\greatlearning\crmapp2\service\CustomerServiceImpl.class
+com\greatlearning\crmapp2\service\CustomerService.class
